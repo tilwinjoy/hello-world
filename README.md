@@ -1,2 +1,2 @@
 # hello-world
-First gitbug project for learning purpose
+First github project for learning purpose.
